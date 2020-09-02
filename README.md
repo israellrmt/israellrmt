@@ -1,4 +1,6 @@
-### Hi there 👋
+##hola,me llamo Israel
+
+Soy ingeniero en Electronica y estudio el Master en Ciencia de Datos e Inteligencia Artificial.  
 
 <!--
 **israellrmt/israellrmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
